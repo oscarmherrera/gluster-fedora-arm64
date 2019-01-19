@@ -4,7 +4,7 @@ ENV NAME="gluster-fedora" \
     DESC="GlusterFS on Fedora" \
     VERSION=0 \
     RELEASE=1 \
-    ARCH=x86_64 \
+    ARCH=arm64 \
     REPO="$FGC" \
     container=docker
 
